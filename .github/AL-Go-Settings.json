@@ -2,5 +2,5 @@
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/privatePreview/customALGoFiles/.Modules/settings.schema.json",
   "type": "PTE",
   "templateUrl": "https://github.com/BusinessCentralApps/DirectionsEMEA2025Demo-Template@main",
-  "templateSha": "d37494f45443c6627bbbf629b579e8f34d62be9f"
+  "templateSha": "81acb0df6b665b010945e31ed1448b8baa0a81b7"
 }
